@@ -1,0 +1,10 @@
+- 👋 Hi, I’m @kecho-martin
+- 👀 I’m interested in back-end development 
+- 🌱 I’m currently learning react
+- 💞️ I’m looking to collaborate on any open source project as per my area of expertise
+- 📫 reach me on kechomartin97@gmail.com
+
+<!---
+kecho-martin/kecho-martin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
