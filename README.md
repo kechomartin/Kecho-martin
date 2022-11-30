@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kecho-martin
-- 👀 I’m interested in back-end development 
+- 👀 I’m interested in machine learning 
 - 🌱 I’m currently learning react
 - 💞️ I’m looking to collaborate on any open source project as per my area of expertise
 - 📫 reach me on kechomartin97@gmail.com
