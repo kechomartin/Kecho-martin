@@ -11,4 +11,4 @@ You can click the Preview link to take a look at your changes.
 - I'm proficient in Javascript and python. 
 - Hoping to find a team to collaborate and grow with .
 - Achieving simple coding goals everyday. 
-- I'd like to think machines as an extension of man rather than a tool to do man's bidding. 
+- I'd like to think machines as an extension of man rather than a tool to do man's bidding...
