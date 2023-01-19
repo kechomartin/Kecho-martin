@@ -1,4 +1,5 @@
-hi- 👋 Hi, I’m @kecho-martin
+# 👋 Hi, I’m kecho-martin
+## ABOUT ME:
 - 👀 I’m interested in machine learning 
 - 🌱 I’m currently learning react
 - 💞️ I’m looking to collaborate on any open source project as per my area of expertise
