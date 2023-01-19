@@ -1,4 +1,4 @@
-# 👋 Hi, I’m kecho-martin
+# 👋 Hi, I’m martin
 ## ABOUT ME:
 - 👀 I’m interested in machine learning 
 - 🌱 I’m currently learning react
