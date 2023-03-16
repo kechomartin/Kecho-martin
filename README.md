@@ -1,6 +1,6 @@
 # 👋 Hi, I’m martin
 ## ABOUT ME:
-- 👀 I’m interested in machine learning 
+- 👀 I’m a javascript developer
 - 🌱 I’m currently learning react
 - 💞️ I’m looking to collaborate on any open source project as per my area of expertise
 - 📫 reach me on kechomartin97@gmail.com
