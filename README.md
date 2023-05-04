@@ -1,9 +1,9 @@
-# 👋 Hi, I’m martin
+# 👋 Hi, I’m Kech0
 ## ABOUT ME:
--  I’m a javascript developer
-- 💞️ I’m looking to collaborate on any open source project as per my area of expertise
-- 📫 reach me on Gmail [me@gmail](kechomartin97@gmail.com)
-- 📫 reach me on Twitter [@martin](https://twitter.com/Kechomartin)
+- ✅ I’m a javascript developer .
+- :pager: I’m looking to collaborate on any open source project as per my area of expertise.
+- :email: reach me on Gmail [me@gmail](kechomartin97@gmail.com) .
+- 📫 reach me on Twitter [@martin](https://twitter.com/Kechomartin) .
 <!---
 kecho-martin/kecho-martin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
