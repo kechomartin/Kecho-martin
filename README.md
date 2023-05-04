@@ -16,7 +16,7 @@
 - Excellent organisational and time management skills.
 - Accuracy and attention to detail.
 ## CODE EDITORS:
-<img src="https://img.icons8.com/color/512/visual-studio-code-2019.png" style="width: 50px; heigth: 50px;"><img src="https://img.icons8.com/fluency/512/atom-editor.png" style="width: 50px; heigth: 50px;">
+<img src="https://img.icons8.com/color/512/visual-studio-code-2019.png" style="width: 50px; heigth: 50px;"><img src="https://img.icons8.com/fluency/512/atom-editor.png" style="width: 50px; heigth: 50px;"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/512px-PyCharm_Icon.svg.png?20200803065702" style="width:50px; height:50px;">
 
 ## Read on :
 ```
