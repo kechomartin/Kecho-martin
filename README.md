@@ -17,3 +17,14 @@
 - Accuracy and attention to detail.
 ## CODE EDITORS:
 <img src="https://img.icons8.com/color/512/visual-studio-code-2019.png" style="width: 50px; heigth: 50px;"><img src="https://img.icons8.com/fluency/512/atom-editor.png" style="width: 50px; heigth: 50px;">
+
+## Read on :
+```
+$ write code .
+$ find a problem . 
+$ research on it . 
+$ spend time debugging code . 
+$ fail to find the solution . 
+$ keep at it because that is what it means to be a developer .
+
+```
