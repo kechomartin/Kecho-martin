@@ -1,4 +1,5 @@
-# 👋 Hi, I’m Kech0
+<h1 align="center">👋 Hi, I’m Kech0</h1>
+
 ## ABOUT ME:
 - ✅ I’m a javascript developer .
 - :pager: I’m looking to collaborate on any open source project as per my area of expertise.
