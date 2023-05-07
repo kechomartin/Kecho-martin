@@ -26,6 +26,6 @@ $ find a problem .
 $ research on it . 
 $ spend time debugging code . 
 $ fail to find the solution . 
-$ keep at it because that is what it means to be a developer .
+$ keep at it and you'll eventually learn something new .
 
 ```
