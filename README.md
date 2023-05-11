@@ -20,11 +20,7 @@
 
 ## Read on :
 ```
-$ write code .
-$ find a problem . 
-$ research on it . 
-$ spend time debugging code . 
-$ fail to find the solution . 
-$ keep at it and you'll eventually learn something new .
-
+var sentence = "Hi, my name is Martin!"
+if (sentence.indexOf("Martin")!=-1
+alert("Martin is in there!")
 ```
