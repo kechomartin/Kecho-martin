@@ -1,5 +1,7 @@
 <h1 align="center">👋 Hi, I’m Kech0</h1>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=050EBEC&size=30&lines=Hello!+I'm+Kech0!;I'm+a+Full-stack+Developer...;I'm+also+a+cyber+security+dev;)](https://git.io/typing-svg)
+
 ## ABOUT ME:
 - ✅ I’m a javascript developer .
 - :pager: I’m looking to collaborate on any open source project as per my area of expertise.
