@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I’m Kech0</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=050EBEC&size=30&lines=Hello!+I'm+Kech0!;I'm+a+Full-stack+Developer...;I'm+also+a+cyber+security+dev;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Typewriter&pause=1000&color=00FFFF&width=435&lines=Hello%2C+I'm+a+full-stack+developer;I+write+Javascript+%2C+Java+and+python.;I+see+machines+as+extensions+of+man+.)](https://git.io/typing-svg)
 
 ## ABOUT ME:
 - ✅ I’m a javascript developer .
@@ -8,7 +8,7 @@
 - :email: reach me on Gmail [me@gmail](kechomartin97@gmail.com) .
 - 📫 reach me on Twitter [@martin](https://twitter.com/Kechomartin) .
 - I'm proficient in Javascript and python. 
-- I'd like to think of machines as an extension of man rather than  tools to do man's bidding...
+
 ## SKILL SET:
 <img src="https://img.icons8.com/color/512/bootstrap.png" style="width: 50px; height:50px;"><img src="https://img.icons8.com/color/512/javascript.png" style="width: 50px; heigth: 50px;"><img src="https://img.icons8.com/color/512/react-native.png" style="width: 45px; height: 45px;"><img src="https://img.icons8.com/fluency/512/python.png" style="width: 50px; heigth: 50px;"><img src="https://img.icons8.com/color/512/c-plus-plus-logo.png" style="width:45px; heigth:45px;">
 <img src="https://img.icons8.com/color/256/php.png" style="width:45px; heigth:45px;">
