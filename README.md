@@ -20,7 +20,7 @@
 
 ## Read on :
 
- ```
+ ```javascript
    var message ="kech0"
    var intext = messsage.concat("is a","developer.")
    alert(intext)
