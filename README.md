@@ -1,6 +1,7 @@
 <h1 align="center">👋 Hi, I’m Kech0</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Typewriter&pause=1000&color=00FFFF&width=435&lines=Hello%2C+I'm+a+full-stack+developer;I+write+Javascript+%2C+Java+and+python.;I+see+machines+as+extensions+of+man+.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Comfortaa&pause=1000&color=00FFFF&width=435&lines=Hello%2C+I'm+a+full-stack+developer;I+write+Javascript+%2C+Java+and+python;I+see+machines+as+extensions+of+man+.)](https://git.io/typing-svg)
+
 
 ## ABOUT ME:
 - ✅ I’m a javascript developer .
