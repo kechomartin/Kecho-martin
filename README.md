@@ -1,14 +1,14 @@
-<h1 align="center">👋 Hi, I’m Kech0</h1>
+<h1 align="center" style="font-family:Quicksand;">👋 Hi, I’m Kech0</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Syne+Mono&weight=800&size=23&pause=1000&color=FFB207&width=435&lines=Hello%2C+I'm+a+full-stack+developer;I+write+Javascript+%2C+Java+and+python;I+see+machines+as+extensions+of+man+.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Gugi&size=24&pause=1000&color=D4D4D4&width=435&lines=Hello+%2C+I'm+a+full-stack+developer;I+write+javascript+%2C+python+and+java;I'm+passionate+about+software;I+build+apps+)](https://git.io/typing-svg)
 
 
 ## ABOUT ME:
 - ✅ I’m a javascript developer .
 - :pager: I’m looking to collaborate on any open source project as per my area of expertise.
 - :email: reach me on Gmail [me@gmail](kechomartin97@gmail.com) .
-- 📫 reach me on Twitter [@martin](https://twitter.com/Kechomartin) .
-- I'm proficient in Javascript and python. 
+- 📩: reach me on Twitter [@martin](https://twitter.com/Kechomartin) .
+- ✍️:I'm proficient in Javascript and python. 
 
 ## SKILL SET:
 <img src="https://img.icons8.com/color/512/bootstrap.png" style="width: 50px; height:50px;"><img src="https://img.icons8.com/color/512/javascript.png" style="width: 50px; heigth: 50px;"><img src="https://img.icons8.com/color/512/react-native.png" style="width: 45px; height: 45px;"><img src="https://img.icons8.com/fluency/512/python.png" style="width: 50px; heigth: 50px;"><img src="https://img.icons8.com/color/512/c-plus-plus-logo.png" style="width:45px; heigth:45px;">
