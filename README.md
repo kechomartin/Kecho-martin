@@ -15,7 +15,7 @@
 <img src="https://img.icons8.com/color/256/php.png" style="width:45px; heigth:45px;">
 <img src="https://img.icons8.com/color/256/npm.png" style="width:45px; heigth:45px;">
 <img src="https://img.icons8.com/color/256/api.png" style="width:45px; heigth:45px;">
-<img src="https://img.icons8.com/external-bearicons-gradient-bearicons/256/external-SQL-file-extension-bearicons-gradient-bearicons.png" style="width:45px; height:45px;">
+<img src="https://img.icons8.com/external-bearicons-gradient-bearicons/256/external-SQL-file-extension-bearicons-gradient-bearicons.png" style="width:45px; height:45px;"><img src="https://img.icons8.com/?size=512&id=FRRACRKRsw2s&format=png" style="width:45px; height:45px;">
 - Excellent organisational and time management skills.
 - Accuracy and attention to detail.
 ## CODE EDITORS:
