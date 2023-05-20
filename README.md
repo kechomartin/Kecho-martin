@@ -28,5 +28,47 @@
    var intext = messsage.concat("is a","developer.")
    alert(intext)
  ```
+ 
+ ```java
+    public class Developer {
+    public static void main(String[] args) {
+        System.out.println("Hey there, I'm a developer");
+    }
+}
+
+ ```
+ ```python
+    print("Hey there, I'm a developer")
+
+ ```
+ ```c++
+    #include <iostream>
+
+int main() {
+    std::cout << "Hey there, I'm a developer" << std::endl;
+    return 0;
+}
+
+ ```
+ ```javascript
+    import React from 'react';
+
+class Developer extends React.Component {
+  render() {
+    return (
+      <div>
+        <p>Hey there, I'm a developer</p>
+      </div>
+    );
+  }
+}
+
+export default Developer;
+
+ ```
+ ```sql
+    SELECT 'Hey there, I''m a developer' AS message;
+--In the example I provided, the message "Hey there, I'm a developer" contains the contraction "I'm," where the apostrophe is part of the string and not the delimiter. To ensure that SQL interprets it correctly, we escape the single quote by using two consecutive single quotes (''). This way, SQL treats the second single quote as a literal character within the string.
+ ```
 
 
