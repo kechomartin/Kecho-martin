@@ -40,18 +40,6 @@ class Developer extends React.Component {
 export default Developer;
 
  ```
-```java
-public class Main {
-  public static void main(String[] args) {
-    int name = kech0;
-    if (name == kech0) {
-      System.out.println("Kech0 is a developer.");
-    } else {
-      System.out.println("would you like to be a developer?");
-    }  
-  }
-}
 
- ```
 
 
