@@ -6,7 +6,7 @@
 ## ABOUT ME:
 - ✅ I’m a javascript developer .
 - :pager: I’m looking to collaborate on any open source project as per my area of expertise.
-- :email: reach me on Gmail [me@gmail](kechomartin97@gmail.com) .
+- :email: reach me on Gmail [me@gmail](kecho.mk@gmail.com) .
 - 📩: reach me on Twitter [@martin](https://twitter.com/Kechomartin) .
 - ✍️:I'm proficient in Javascript and python. 
 - LOCATED 🇰🇪
