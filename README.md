@@ -1,5 +1,6 @@
 <h1 align="center" style="font-family:Quicksand;">👋 Hi, I’m Kech0</h1>
 
+I find my camera suspicious .
 
 ## ABOUT ME:
 - ✅ I’m a javascript developer .
