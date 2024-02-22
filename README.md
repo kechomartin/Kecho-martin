@@ -7,7 +7,7 @@ I find my camera suspicious .
 - :pager: I’m looking to collaborate on any open source project as per my area of expertise.
 - Reach me on Gmail [me@gmail](mailto:kecho.mk@gmail.com) .
 - Reach me on Twitter [@martin](https://twitter.com/_kech0) . 
-- LOCATED 🌐 🇰🇪
+- LOCATED 🌐 🇰🇪 .
 
 
 ## READ ON  :
