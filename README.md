@@ -4,7 +4,7 @@
 - ✅ I’m a javascript developer .
 - :pager: I’m looking to collaborate on any open source project as per my area of expertise.
 - Reach me on Gmail [me@gmail](mailto:kecho.mk@gmail.com) .
-- Reach me on Twitter [@martin](https://twitter.com/_kech0) . 
+- Reach me on Twitter/X [@martin](https://twitter.com/_kech0) . 
 - LOCATED 🌐 🇰🇪 .
 
 
