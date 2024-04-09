@@ -7,6 +7,8 @@
 - Reach me on Twitter/X [@martin](https://twitter.com/_kech0) . 
 - LOCATED 🌐 🇰🇪 .
 
+## Timelog :
+After completing Software Engineering Moringa School 2021 - 2022 , I went on to do Certifications in Cybersecurity 2022 -2023  , Data analysis and Data management 2023 - 2024.
 
 ## READ ON  :
 
