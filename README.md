@@ -13,8 +13,7 @@ After completing Software Engineering Moringa School 2021 - 2022 , I went on to 
 ## READ ON  :
 
  ```javascript
-I promise I am not a robot .
-
+To all devs out there , keep it constant .
  ```
 
 
