@@ -3,8 +3,9 @@ Hey there, I'm Kecho Martin, a passionate developer with a knack for JavaScript.
 
 ## ABOUT ME:
 - ✅ I’m a javascript developer .
+- Reach me on Discord [me@discord](https://discord.com/invite/24eZNJPq).
 - Reach me on Gmail [me@gmail](mailto:kecho.mk@gmail.com) .
-- Reach me on Twitter/X [@martin](https://twitter.com/_kech0) . 
+- Reach me on Twitter/X [@martin](https://twitter.com/_kech0) .
 - LOCATED 🌐 🇰🇪 .
 
 ## Timelog :
