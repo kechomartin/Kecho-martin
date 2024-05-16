@@ -6,7 +6,7 @@ Hey there, I'm Kecho Martin, a passionate developer with a knack for JavaScript.
 - Reach me on Discord [me@discord](https://discord.com/invite/24eZNJPq).
 - Reach me on Gmail [me@gmail](mailto:kecho.mk@gmail.com) .
 - Reach me on Twitter/X [@martin](https://twitter.com/_kech0) .
-- LOCATED 🌐 🇰🇪 .
+  
 
 ## Timelog :
 After completing Software Engineering Moringa School 2021 - 2022 , I went on to do Certifications in Cybersecurity 2022 -2023  , Data analysis and Data management 2023 - 2024.
