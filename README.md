@@ -16,7 +16,7 @@ function askForCode() {
     if (userInput) {
         console.log("You wrote:", userInput);
     } else {
-        console.log("No input was provided.");
+        console.log("Code not working");
     }
 }
 // Call the function to execute it
