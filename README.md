@@ -9,7 +9,18 @@ Hey there, I'm Kecho Martin, a passionate developer with a knack for JavaScript.
 ## READ ON  :
 
  ```javascript
-To all devs out there , keep it constant .
+function askForCode() {
+    // Ask User to keep at it 
+    const userInput = prompt("Keep on keepin on:");
+
+    if (userInput) {
+        console.log("You wrote:", userInput);
+    } else {
+        console.log("No input was provided.");
+    }
+}
+// Call the function to execute it
+askForCode();
  ```
 
 
