@@ -3,7 +3,7 @@ Hey there, I'm Kecho Martin, a passionate developer with a knack for JavaScript.
 
 ## ABOUT ME:
 - ✅ I’m a javascript developer .
-- Reach me on Twitter/X [@martin](https://x.com/kecho_martin) .
+- Reach me on X [@me](https://x.com/kecho_martin) .
   
 
 ## READ ON  :
