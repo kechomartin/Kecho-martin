@@ -22,6 +22,8 @@ function askForCode() {
 // Call the function to execute it
 askForCode();
  ```
-
-
+## Achievements 🏆
+- Developed and maintained web applications using JavaScript, React, and Node.js, boosting user engagement by 15%.
+- Collaborated with a team to design a RESTful API, reducing data retrieval times by 30%, and helped migrate legacy systems to AWS, saving 25% in costs.
+- Committed to code quality and Agile methodologies, I continuously seek opportunities for learning and improvement, holding certifications in AWS Solutions Architect and Advanced React.
 
