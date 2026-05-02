@@ -1,20 +1,19 @@
 <h1 align="center">👋 Hi, I'm Kech0</h1>
-
 <p align="center">
-  <strong>Kecho Martin</strong> — JavaScript Developer & Open Source Contributor
+  <strong>Kecho Martin</strong> — Data Analyst, Software Developer and Open Source Contributor.
 </p>
-
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
 </p>
-
 <p align="center">
-  <a href="https://x.com/kecho_martin">
-    <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=kechomartin&style=flat-square&color=blue&label=profile+views" />
 </p>
 
 ---
@@ -41,7 +40,6 @@ function askForCode() {
         console.log("Code not working");
     }
 }
-
 // Call the function to execute it
 askForCode();
 ```
@@ -68,9 +66,22 @@ askForCode();
 
 - 🏅 **AWS Solutions Architect**
 - 🏅 **Advanced React**
+- 🏅 **Introduction to Data Analytics**
+- 🏅 **GA4 DATA & REPORTS**
+- 🏅 **Introduction to CISSP Security Assessment & Testing and Security
+Operations**
+- 🏅 **Hackerrank's JavaScript(Basics)**
+- 🏅 **Modernize Infrastructure and Applications
+with Google Cloud**
+- 🏅 **Planning For Monitoring and Evaluation**
+- 🏅 **Software Engineering Essentials**
+- 🏅 **Scaling with Google Cloud Operations**
+- 🏅 **Vue.js3**
 
 ---
 
-<p align="center">
-  built with ambition · open to collaboration · <a href="https://x.com/kecho_martin">@kecho_martin</a>
+<p align="center">built with ambition · open to collaboration
+<a href="https://x.com/kecho_martin">
+    <img width="30" height="30" src="https://img.icons8.com/fluency/48/twitterx--v1.png" alt="twitterx--v1"/>
+  </a>
 </p>
